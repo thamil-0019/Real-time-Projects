@@ -1,0 +1,268 @@
+body {
+  background-color: white;
+  margin: 0;
+}
+span {
+  color: yellow;
+}
+#title {
+  color: white;
+  text-align: center;
+  background-color: blue;
+}
+.topnav {
+  background-color: blue;
+  position: fixed;
+  width: 100%;
+  height: 127px;
+}
+#clothes {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  background-color: lightgray;
+}
+#fun {
+  color: white;
+  margin: 120px 0px 0px 10px;
+  font-size: 18px;
+  text-decoration: none;
+  padding: 14 px 16px;
+}
+#cont {
+  padding: 0px 40px 40px 3px;
+}
+#phot {
+  margin: 0px 17px 19px 10px;
+}
+.about {
+  text-align: center;
+}
+#fuel {
+  background-color: lightgray;
+}
+#com {
+  margin: 5px 640px 5px 500px;
+  background-color: lightgray;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+}
+#lab {
+  margin: 5px 640px 5px 500px;
+}
+#enquiry {
+  background-color: orangered;
+  color: white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: none;
+  height: 35px;
+  width: 110px;
+}
+#enquiry:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+.login {
+  text-align: center;
+}
+#cont{
+  margin: 0px;
+}
+#contt{
+  margin: 0px 70px 0px 70px;
+}
+#content{
+  text-align: center;
+}
+#fun:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
+#icon{
+  margin: 0px 0px 0px 10px;
+}
+#iconn{
+  margin: 0px 0px 0px 60px;
+}
+#icon:hover{
+  opacity: 0.7;
+  cursor: pointer;
+}
+#uname {
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+  background-color: white;
+}
+#ser {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+#help {
+  padding: 3px 15px 3px 15px;
+}
+#our {
+  text-align: center;
+}
+#our1 {
+  padding: 3px 80px 3px 80px;
+}
+#field {
+  background: #c2e59c; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #64b3f4,
+    #c2e59c
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #64b3f4,
+    #c2e59c
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#password {
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color: white;
+  border-bottom: 3px solid gray;
+}
+form {
+  margin: 5px 510px 5px 520px;
+  padding: 100px 0px 100px 40px;
+  box-sizing: content-box;
+  border-radius: 20px;
+  background-color: white;
+  height: 220px;
+}
+fieldset {
+  background: #3494e6; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ec6ead,
+    #3494e6
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ec6ead,
+    #3494e6
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+#submit {
+  margin: 0px 5px 5px 18px;
+  cursor: pointer;
+  color: white;
+  height: 30px;
+  width: 65px;
+  background-color: #0d6efd;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-radius: 4px;
+  border-bottom: none;
+}
+#submit:hover {
+  opacity: 0.9;
+}
+#submit1:hover {
+  opacity: 0.9;
+}
+#submit1 {
+  margin: 0px 5px 5px 28px;
+  cursor: pointer;
+  height: 30px;
+  border-radius: 4px;
+  color: white;
+  width: 65px;
+  background-color: #0d6efd;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  outline: none;
+  border-bottom: none;
+}
+#lin {
+  margin: 0px 5px 5px 28px;
+}
+#comm {
+  margin: 5px 640px 5px 500px;
+}
+#com1 {
+  margin: 5px 640px 5px 500px;
+  background-color: lightgray;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+}
+#com2 {
+  margin: 5px 640px 5px 500px;
+  background-color: lightgray;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+}
+#com3 {
+  margin: 5px 640px 5px 500px;
+  background-color: lightgray;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+}
+#com4 {
+  margin: 5px 640px 5px 500px;
+  background-color: lightgray;
+  outline: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid gray;
+}
+.contact {
+  text-align: center;
+}
+#man {
+  color: red;
+}
+#about {
+  display: grid;
+  grid-template-columns: auto auto;
+}
+#txt {
+  background-color: lightgray;
+}
+#text {
+  margin: 0px 25px 11px 15px;
+  font-size: 20px;
+}
+#pic:hover {
+  opacity: 0.8;
+}
+#detail {
+  text-align: center;
+}
+#last {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+footer {
+  background-color: darkslategray;
+  color: white;
+}
+#last1 {
+  padding: 13px 25px 13px 25px;
+}
